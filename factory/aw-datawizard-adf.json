@@ -1,9 +1,0 @@
-{
-	"name": "aw-datawizard-adf",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "ddafb15f-5e04-4176-b102-edcf2fe09944",
-		"tenantId": "ec15726e-765c-4f10-9e63-9e1964529582"
-	}
-}
